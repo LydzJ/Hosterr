@@ -116,7 +116,7 @@ nav ul li a:hover {
 .img {
     position: absolute;
     margin-left: 49%;
-    margin-top: -18%;
+    margin-top: -20%;
 }
 
 .img1 {
@@ -137,3 +137,4 @@ nav ul li a:hover {
     z-index: 1;
     transform: rotate(-40deg);
 }
+
