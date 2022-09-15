@@ -121,29 +121,19 @@ nav ul li a:hover {
     padding: 10px 20px;
 }
 
-.img {
-    position: absolute;
-    margin-left: 49%;
-    margin-top: -20%;
-}
-
 .img1 {
-    z-index: 4;
+    position: absolute;
+    left: 55%;
+    bottom: 25%;
+    z-index: 1;
 }
 
 .img2 {
-    z-index: 3;
-    transform: rotate(-20deg);
-}
-
-.img3 {
+    position: absolute;
+    left: 55%;
+    bottom: 25%;
     z-index: 2;
     transform: rotate(-30deg);
-}
-
-.img4 {
-    z-index: 1;
-    transform: rotate(-40deg);
 }
 
 .social-links {
